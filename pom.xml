@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.ilovesshan</groupId>
     <artifactId>yun-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>yun-service</name>
     <description>yun-service</description>
     <properties>
